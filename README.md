@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TerekhovT
+- 👀 I’m interested in Data Science, CV in Medicine 
+- 💞️ I’m looking to collaborate on projects related to machine learning, databases in medicine
+- 📫 How to reach me: 
+- TWITTER @TerexovTimur
+- IG @Terekhov.tv
+- TELEGRAMM @ykyyu
